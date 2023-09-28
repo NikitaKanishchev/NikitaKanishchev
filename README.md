@@ -7,7 +7,7 @@
 
 ---
 :man_technologist:About ME:
-I`m Russian novice developer, also I start to study UI Interface and Programming at all.:seedling:
+I`m Russian novice developer, in turn I start to study UI Interface and Programming at all.:seedling:
 
 .:computer:I try to study something new everyday, but also I read a lot of books about C#.
 
