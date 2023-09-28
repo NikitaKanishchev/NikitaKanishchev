@@ -7,11 +7,11 @@
 
 ---
 :man_technologist:About ME:
-I`m Russian novice developer, also I start to study UI Interface and Programming at all.:dolphin:
+I`m Russian novice developer, also I start to study UI Interface and Programming at all.:seedling:
 
 .:computer:I try to study something new everyday, but also I read a lot of books about C#.
 
-.:seedling:I`m ready to explore new spheres of programming.
+:dolphin:I`m ready to explore new spheres of programming.
 
 
 ---
