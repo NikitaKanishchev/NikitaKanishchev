@@ -1,4 +1,4 @@
-[![MasterHead](https://liyasthomas.github.io/banner/)](https://github.com/NikitaKanishchev)
+![banner](https://github.com/NikitaKanishchev/NikitaKanishchev/assets/101903011/334af63c-5a64-4ff2-b1cd-94deffe4e4df)
 
                                           
 <div align="center">
